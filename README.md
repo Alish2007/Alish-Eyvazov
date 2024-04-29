@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm Alish2007</h2>
-<h1 align="center">Hi l learning Front end dev and game dev from Azerbaijan</h1>
+<h1 align="center" Text-color: Red;>Hi l learning Front end dev and game dev from Azerbaijan</h1>
 
 - 🔭 I’m currently working on **Learning**
 
